@@ -1,0 +1,11 @@
+inicio
+     A - 8
+     B - 6
+     C -9 
+     Media - (A + B + C ) / 2 
+     se (media >< 7 ) 
+     aprovado
+     senao 
+     reprovado 
+     fin-se 
+  fim     
